@@ -36,4 +36,4 @@ Run the program in CLI
 python3 main.py
 ```
 
-The output path is set to the root of the project repository. To change the output location, edit the filepath variable in `main.py`.
+This will return a csv file named `out.csv`. The output path is set to the root of the project repository. To change the output location, edit the filepath variable in `main.py`.

@@ -24,11 +24,11 @@ Clone this repository
 git clone https://github.com/jchoi25/Censys-Take-Home.git
 ```
 
-Install dependencies (censys and pandas)
+Install dependencies
 
 ```bash
 cd Censys-Take-Home
-pip install -r requirements.txt
+pip install pandas
 ```
 
 Run the program in CLI

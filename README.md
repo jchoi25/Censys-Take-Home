@@ -16,6 +16,7 @@ Censys API ID: XXX
 Censys API Secret: XXX
 Successfully authenticated for your@email.com
 ```
+
 ## How to Run
 
 Clone this repository
@@ -32,8 +33,10 @@ pip install pandas
 ```
 
 Run the program in CLI
+
 ```bash
 python3 main.py
 ```
 
-This will return a csv file named `out.csv`. The output path is set to the root of the project repository. To change the output location, edit the filepath variable in `main.py`.
+This will return a csv file named `out.csv`. The output path is the same location of the `main.py` file.
+To change the output location, edit the filepath variable in `main.py`.
